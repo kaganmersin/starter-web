@@ -1,2 +1,0 @@
-sample txt to kagan.txt
-new changes
