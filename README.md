@@ -2,4 +2,4 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purpose v1 and v2
