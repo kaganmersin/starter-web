@@ -9,7 +9,7 @@
 
     <name>
      please leave a review
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COLOPHON  edited
 
     HTML5, CSS3
     jQuery, Modernizr
